@@ -1,0 +1,20 @@
+#wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+
+#wrapper > div {
+    width: 50%;
+    height: ;
+}
+
+#top {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 2em;
+}
+#bottom {
+    display: block;
+    align-items: row;
+    margin-left: 500px;
+}
